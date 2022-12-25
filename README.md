@@ -6,6 +6,8 @@ Aşağıda 3 farklı kullanıcının sepet bilgileri verilmiştir. Bu sepet bilg
 uygun ürün önerisini birliktelik kuralı kullanarak yapınız. Ürün önerileri 1 tane
 ya da 1'den fazla olabilir. Karar kurallarını 2010-2011 Germany müşterileri
 üzerinden türetiniz.
+
+
 Kullanıcı 1’in sepetinde bulunan ürünün id'si: 21987
 Kullanıcı 2’in sepetinde bulunan ürünün id'si : 23235
 Kullanıcı 3’in sepetinde bulunan ürünün id'si : 22747
